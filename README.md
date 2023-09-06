@@ -4,8 +4,8 @@ Por Diego Collazos y José David Jayk Vanegas
 
 ## Función de raices de un polinomio de grado 2 
 
-(Mirar esta funcionalidad bien ejecutada en el siguiente repositorio: https://github.com/DiegoColBdz/Raices-Parcial2023.git)
-(Nos falto corregirlo en este repositorio)
+(Profe Bienvenido en este repositorio el programa de las raices de un polinomio de grado 2 se enceuntra bien aqui, ya que no se pudo integrar bien en el repositorio principal de mi compañero Jayk)
+
 
 ```c++
 char inputBuffer[50];
