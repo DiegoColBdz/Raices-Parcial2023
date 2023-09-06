@@ -121,3 +121,14 @@ int main() {
 }
 ```
 En la función principal `main`, inicializamos el programa mostrando un mensaje "Ingrese los coeficientes del polinomio de grado 2". Luego, entramos en un bucle infinito que escanea las teclas del teclado matricial. Para cada fila y columna, llamamos a `processKey` para procesar las teclas presionadas y evitar lecturas múltiples mientras una tecla está presionada.
+
+# Para la funcion de las raices de un polinomio de grado 2:
+1. Cuando inicia el programa, verás el mensaje inicial en la pantalla: "Ingrese los coeficientes del polinomio de grado 2."
+2. Presiona el botón *. La pantalla mostrará: "Por favor, ingrese el coeficiente a:"
+    Ingresa el valor del coeficiente 'a' como un número entero. Por ejemplo, si 'a' es igual a 2, presiona los botones 2 y luego presiona * para confirmar.
+3. Después de ingresar 'a', la pantalla mostrará: "Por favor, ingrese el coeficiente b:"
+    Ingresa el valor del coeficiente 'b' de la misma manera que ingresaste 'a'. Por ejemplo, si 'b' es igual a 3, presiona los botones 3 y luego presiona * para confirmar.
+4. Luego de ingresar 'b', la pantalla mostrará: "Por favor, ingrese el coeficiente c:"
+    Ingresa el valor del coeficiente 'c' de la misma manera que ingresaste 'a' y 'b'. Por ejemplo, si 'c' es igual a 1, presiona los botones 1 y luego presiona * para confirmar.
+5. Una vez que ingresaste 'a', 'b' y 'c', el programa mostrará un mensaje en pantalla con los coeficientes que ingresaste. Por ejemplo: "Coeficientes ingresados: a=2, b=3, c=1".
+6. Luego de mostrar los coeficientes ingresados, el programa calculará automáticamente las raíces del polinomio de grado 2 utilizando la fórmula cuadrática.
